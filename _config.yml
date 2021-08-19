@@ -10,7 +10,7 @@ url: "https://ccaballeroh.github.io" # the base hostname & protocol for your sit
 twitter_username: ccaballeroh10 # your Twitter username
 github_username: ccaballeroh # your Github username
 
-skillstree: false # turn on or off the skills tree in about page
+skillstree: true # turn on or off the skills tree in about page
 
 # Build settings
 permalink: none
