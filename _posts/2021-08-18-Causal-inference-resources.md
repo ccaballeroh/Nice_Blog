@@ -1,9 +1,11 @@
 ---
-title: Causal Inference Resources
+layout: post
+title: Resources for Learning Causal Inference
 date: 2021-08-18
-finished: true
+author: Christian
 categories: [Causal Inference, Resources]
 tags: [links, open source]
+finished: true
 ---
 
 > _Had the pandemic happened last year, would there be so many awesome and **new** resources on Causal Inference?_
