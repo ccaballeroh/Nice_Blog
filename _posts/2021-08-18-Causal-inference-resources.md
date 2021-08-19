@@ -4,7 +4,7 @@ title: Resources for Learning Causal Inference
 date: 2021-08-18
 author: Christian
 categories: ["Causal Inference"]
-tags: [CausalInference, Resources]
+tags: [Causal Inference, Resources]
 published: true
 finished: false
 ---
