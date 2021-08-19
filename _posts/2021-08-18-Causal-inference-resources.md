@@ -5,8 +5,8 @@ date: 2021-08-18
 author: Christian
 categories: [Causal Inference, Resources]
 tags: [links, open source]
-published: false
-finished: true
+published: true
+finished: false
 ---
 
 > _Had the pandemic happened last year, would there be so many awesome and **new** resources on Causal Inference?_
