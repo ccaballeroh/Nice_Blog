@@ -1,14 +1,14 @@
 # Site settings
-title: Hapax
+title: Hapax legomenon
 name: Christian Caballero
 email:  # your email address
 description: >
     Personal blog about AI, machine learning, linguistics, causal inference,
   and cognitive science. # this means to ignore newlines until "baseurl:"
-baseurl: "/Nice_Blog" # the subpath of your site, e.g. /blog
-url: "https://ccaballeroh.github.io" # the base hostname & protocol for your site
-twitter_username: ccaballero10# your Twitter username
-github_username: ccaballeroh# your Github username
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+twitter_username: ccaballero10 # your Twitter username
+github_username: ccaballeroh # your Github username
 disqus_username: # your disqus username
 
 google-analytics: # add it if you have one
