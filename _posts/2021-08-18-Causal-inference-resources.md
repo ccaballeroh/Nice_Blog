@@ -21,7 +21,7 @@ Lastly, the third (and highest) rung in the ladder is the **counterfactual**. At
 
 Apparently, it is not so easy to _define_ what is a cause even though we all have an intuition for it. Philosophers have taken a stab at it for centuries (if not millenia), so I won't say that the issue is settled, but I do like one definition I have come across by Prof. Pearl himself and it goes something like this:
 
-> Having both $a$ and \[b\] occurred, we can say that _a_ is a cause for _b_, if and only if, had not _a_ happened, _b_ would not have happened. 
+> Having both $a$ and $$b$$ occurred, we can say that $a$ is a cause for $b$, if and only if, had not $a$ happened, $b$ would not have happened. 
 
 I like this definition over others that deal with interventions precisely because it relies on counterfactuals&mdash;the highest and probably uniquely human level in the ladder. Let's see an example that for some reason I have present whenever causality comes up in a conversation.
 
