@@ -24,11 +24,11 @@ Lastly, the third (and highest) rung in the ladder is the **counterfactual**. At
 
 Apparently, it is not so easy to _define_ what is a cause even though we all have an intuition for it. Philosophers have taken a stab at it for centuries (if not millenia), so I won't say that the issue is settled, but I do like one definition I have come across by Prof. Pearl himself and it goes something like this:
 
-> Having both $a$ and $$b$$ occurred, we can say that $a$ is a cause for $b$, if and only if, had not $a$ happened, $b$ would not have happened. 
+> Having both A and B occurred, we can say that A is a cause for B, if and only if, had not A happened, B would not have happened. 
 
 I like this definition over others that deal with interventions precisely because it relies on counterfactuals&mdash;the highest and probably uniquely human level in the ladder. Let's see an example that for some reason I have present whenever causality comes up in a conversation.
 
-Let's say that we see that whenever we have soup for supper, it is followed by steak. One of the earliest attempts to define causality dealt with this kind of situations: _a_ is always followed by _b_, so _a_ must cause _b_. Well, our common sense tells us that there is no way that the soup is the cause of the steak, but all the past _empirical_ evidence shows that there is, at least, an _association_. So this definition does not suffice.
+Let's say that we see that whenever we have soup for supper, it is followed by steak. One of the earliest attempts to define causality dealt with this kind of situations: _A_ is always followed by _B_, so _A_ must cause _B_. Well, our common sense tells us that there is no way that the soup is the cause of the steak, but all the past _empirical_ evidence shows that there is, at least, an _association_. So this definition does not suffice.
 
 Now, let's apply our preferred definition. Let's imagine that we already ate. Would have we eaten steak if there had not been any soup? Yes! So the soup cannot be the cause for the steak. Another example, had the sun risen if the rooster hadn't crowed? Yes! So the rooster does not cause the sun to rise every morning even though we see that first the rooster crows and then the sun rises.
 
