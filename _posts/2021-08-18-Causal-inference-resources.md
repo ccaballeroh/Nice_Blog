@@ -65,18 +65,15 @@ So back to the topic again. This last year I have been following the right peopl
     
     - Another beautiful free online version of a forthcoming book.
     - The author is an economist.
-    <br>
 
 - [Matheus Facure, & Michell Germano. (2021)._Causal Inference for The Brave and True_](https://matheusfacure.github.io/python-causality-handbook/)
 
     - Reference: [Matheus Facure, & Michell Germano. (2021). matheusfacure/python-causality-handbook: First Edition (v1.0). Zenodo. https://doi.org/10.5281/zenodo.4445778](https://doi.org/10.5281/zenodo.4445778)
     - The authors are (very young!) data scientists
-    <br>
 
 - [Neal, B. (2022?) _Introduction to Causal Inference from a Machine Learning Perspective_. Boca Raton: Chapman & Hall/CRC.](https://www.bradyneal.com/causal-inference-course#course-textbook)
     - Currently, these are lecture notes of a forthcoming book. I will update the info when I learn any updates.
     - The author is a PhD student in causal inference and machine learning.
-    <br>
 
 - [Osazuwa, R. (2022?). _Causal AI_\[?\]](https://newsletter.altdeep.ai/p/tiger-moms-bach-and-reichenbach)
     - I learned that Robert Osazuwa Ness is writing a book on Causal AI. This blog post is an excerpt from one of the chapters of the forthcoming book.
@@ -86,6 +83,7 @@ So back to the topic again. This last year I have been following the right peopl
 ## MOOCs
 
 - [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/es/course/causal-diagrams-draw-your-assumptions-before-your): An edX MOOC by Prof. Miguel Hernán. It is a comprehensive introduction to the causal diagrams.
+
 - [Causal Data Science with Directed Acyclic Graphs](https://www.udemy.com/course/causal-data-science/): A Udemy MOOC by Prof. Paul Hünermund. It is a hands-on introduction to causal inference and its applications to data science.
 
 - [Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019#calendar--topical-outline): Properly not a course on causal inference (and not a MOOC) but a Bayesian Course by Prof. Richard McElreath that touches on causal inference. This GitHub repo holds materials for the course including links to videolectures and slides.
