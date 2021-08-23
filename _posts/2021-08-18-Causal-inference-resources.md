@@ -46,20 +46,17 @@ So back to the topic again. This last year I have been following the right peopl
 
     - The PDF file is available for free at Miguel Hernán's website.
     - The authors are epidemiologists.
-    <br>
 
 - [Cunningham, S. (2021). _Causal Inference: The Mixtape_. New Haven: Yale University Press.](https://mixtape.scunning.com/)
 
     - Beautiful free online version of the book.
     - The author is an economist.
-    <br>
 
 - [Peters, J., Janzing, D., & Schölkopf, B. (2017). _Elements of causal inference: foundations and learning algorithms._ The MIT Press.](https://mitpress.mit.edu/books/elements-causal-inference)
 
     - The PDF file is available for free through the Open Access tab on MIT Press website.
     - The authors are mathematicians and computer scientists working in intelligent systems.
     - This is NOT a pandemic book, but it's great and free.
-    <br>
 
 - [Huntington-Klein, N. (2022). _The Effect: An Introduction to Research Design and Causality_. Boca Raton: Chapman & Hall/CRC.](https://theeffectbook.net/)
     
@@ -72,14 +69,15 @@ So back to the topic again. This last year I have been following the right peopl
     - The authors are (very young!) data scientists
 
 - [Neal, B. (2022?) _Introduction to Causal Inference from a Machine Learning Perspective_. Boca Raton: Chapman & Hall/CRC.](https://www.bradyneal.com/causal-inference-course#course-textbook)
+    
     - Currently, these are lecture notes of a forthcoming book. I will update the info when I learn any updates.
     - The author is a PhD student in causal inference and machine learning.
 
 - [Osazuwa, R. (2022?). _Causal AI_\[?\]](https://newsletter.altdeep.ai/p/tiger-moms-bach-and-reichenbach)
+    
     - I learned that Robert Osazuwa Ness is writing a book on Causal AI. This blog post is an excerpt from one of the chapters of the forthcoming book.
     - The author is a statistician and machine learning specialist.
-    <br>
-    
+
 ## MOOCs
 
 - [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/es/course/causal-diagrams-draw-your-assumptions-before-your): An edX MOOC by Prof. Miguel Hernán. It is a comprehensive introduction to the causal diagrams.
