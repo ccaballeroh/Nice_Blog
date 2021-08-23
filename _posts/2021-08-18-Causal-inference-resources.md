@@ -85,10 +85,27 @@ So back to the topic again. This last year I have been following the right peopl
     
 ## MOOCs
 
+- [Causal Diagrams: Draw Your Assumptions Before Your Conclusions](https://www.edx.org/es/course/causal-diagrams-draw-your-assumptions-before-your): An edX MOOC by Prof. Miguel Hernán. It is a comprehensive introduction to the causal diagrams.
+- [Causal Data Science with Directed Acyclic Graphs](https://www.udemy.com/course/causal-data-science/): A Udemy MOOC by Prof. Paul Hünermund. It is a hands-on introduction to causal inference and its applications to data science.
+
+- [Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019#calendar--topical-outline): Properly not a course on causal inference (and not a MOOC) but a Bayesian Course by Prof. Richard McElreath that touches on causal inference. This GitHub repo holds materials for the course including links to videolectures and slides.
+
 ## Blog Posts
+
+- Excellent three-part series blog posts by Prof. Richard McElreath that goes from the naïve "Causal Salad" (his words) approach to "Full-luxury Bayesian Inference" passing through "Causal Design".
+    - [_Regression, Fire, and Dangerous Things (1/3)_](https://elevanth.org/blog/2021/06/15/regression-fire-and-dangerous-things-1-3/)
+    - [_Regression, Fire, and Dangerous Things (2/3)_](https://elevanth.org/blog/2021/06/21/regression-fire-and-dangerous-things-2-3/)
+    - [_Regression, Fire, and Dangerous Things (3/3)_](https://elevanth.org/blog/2021/06/21/regression-fire-and-dangerous-things-3-3/)
+- Four-part tutorial to Pearl's causal inference model: Structural Causal Models (SCM) by Prof. Ferenc Huszár.
+    - [Part 1: Intro to Causal Inference and do-calculus](https://www.inference.vc/untitled/)
+    - [Part 2: Illustrating Interventions with a Toy Example](https://www.inference.vc/causal-inference-2-illustrating-interventions-in-a-toy-example/)
+    - [Part 3: Counterfactuals](https://www.inference.vc/causal-inference-3-counterfactuals/)
+    - [Part 4: Causal Diagrams, Markov Factorization, Structural Equation Models](https://www.inference.vc/causal-inference-4/)
 
 ## Conferences and Workshops
 
 ## Programming Frameworks
 
-[CausalImpact](https://google.github.io/CausalImpact/CausalImpact.html)
+- [CausalImpact](https://github.com/google/CausalImpact): An R package by Google for causal inference using Bayesian structural time-series models
+- [CausalML](https://github.com/uber/causalml): A Python package by Uber for uplift modeling and causal inference with machine learning
+- [DoWhy](https://github.com/microsoft/dowhy): A Python library by Microsoft for end-to-end causal inference
