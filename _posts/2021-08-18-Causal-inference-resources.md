@@ -86,6 +86,10 @@ So back to the topic again. This last year I have been following the right peopl
 
 - [Statistical Rethinking](https://github.com/rmcelreath/statrethinking_winter2019#calendar--topical-outline): Properly not a course on causal inference (and not a MOOC) but a Bayesian Course by Prof. Richard McElreath that touches on causal inference. This GitHub repo holds materials for the course including links to videolectures and slides.
 
+- [Causal Generative Machine Learning Minicourse](https://altdeep.ai/p/causal-ml-minicourse): Minicourse by Prof. Robert O. Ness that goes quickly from DAGs to generative models in machine learning. Specially interesting in this minicourse is the generalization of causal systems to use the language of probabilistic programming. This is more general than causal DAGs.
+
+- [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course): Complete introduction to causal inference from a machine learning perspective by Brady Neal, a PhD student in causal inference and machine learning at MILA-Quebec Institute. This is a collection of YouTube lectures, recommended readings, and accompanying lecture notes soon to be published as a book.
+
 ## Blog Posts
 
 - Excellent three-part series blog posts by Prof. Richard McElreath that goes from the naïve "Causal Salad" (his words) approach to "Full-luxury Bayesian Inference" passing through "Causal Design".
