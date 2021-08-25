@@ -102,10 +102,25 @@ So back to the topic again. This last year I have been following the right peopl
     - [Part 3: Counterfactuals](https://www.inference.vc/causal-inference-3-counterfactuals/)
     - [Part 4: Causal Diagrams, Markov Factorization, Structural Equation Models](https://www.inference.vc/causal-inference-4/)
 
-## Conferences and Workshops
+# Minicourses or Tutorials
+
+- Jonas Peters's minicourse on causality at MIT in May 2017. It includes comprehensive treatment of causal discovery (finding causal structure from data).
+
+    - [First part](https://youtu.be/zvrcyqcN9Wo)
+    - [Second part](https://youtu.be/bHOGP5o3Vu0)
+    - [Third part](https://youtu.be/Jp4UcgpVA2I)
+    - [Fourth part](https://youtu.be/ytnr_2dyyMU)
+
+- Susan Athey's tutorial 
 
 ## Programming Frameworks
 
 - [CausalImpact](https://github.com/google/CausalImpact): An R package by Google for causal inference using Bayesian structural time-series models
+- [https://github.com/WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact): Implementation of `CausalImpact` on top f TensorFlow for Python.
+- [daggity]()
+- [causaleffect]()
 - [CausalML](https://github.com/uber/causalml): A Python package by Uber for uplift modeling and causal inference with machine learning
 - [DoWhy](https://github.com/microsoft/dowhy): A Python library by Microsoft for end-to-end causal inference
+
+
+## Conferences and Workshops
