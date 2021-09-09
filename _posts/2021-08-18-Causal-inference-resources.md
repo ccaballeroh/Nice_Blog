@@ -102,25 +102,43 @@ So back to the topic again. This last year I have been following the right peopl
     - [Part 3: Counterfactuals](https://www.inference.vc/causal-inference-3-counterfactuals/)
     - [Part 4: Causal Diagrams, Markov Factorization, Structural Equation Models](https://www.inference.vc/causal-inference-4/)
 
-# Minicourses or Tutorials
+## Minicourses or Tutorials
 
-- Jonas Peters's minicourse on causality at MIT in May 2017. It includes comprehensive treatment of causal discovery (finding causal structure from data).
+- [Jonas Peters](http://web.math.ku.dk/~peters/)'s minicourse on causality at MIT in May 2017. It includes comprehensive treatment of causal discovery (finding causal structure from data).
 
-    - [First part](https://youtu.be/zvrcyqcN9Wo)
-    - [Second part](https://youtu.be/bHOGP5o3Vu0)
-    - [Third part](https://youtu.be/Jp4UcgpVA2I)
-    - [Fourth part](https://youtu.be/ytnr_2dyyMU)
+    - [Part 1](https://youtu.be/zvrcyqcN9Wo) | [Part 2](https://youtu.be/bHOGP5o3Vu0) | [Part 3](https://youtu.be/Jp4UcgpVA2I) | [Part 4](https://youtu.be/ytnr_2dyyMU)
 
-- Susan Athey's tutorial 
+- [Susan Athey](https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey) and [Guido Imbens](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens)'s nine-part course at the American Economic Association in 2018 ([website](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)).
+    - [Materials](http://bit.ly/2CGLfes)
+    - [Part 1](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-1) | [Part 2](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-2) | [Part 3](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-3)
+    - [Part 4](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-4) | [Part 5](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-5) | [Part 6](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-6)
+    - [Part 7](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-7) | [Part 8](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-8) | [Part 9](https://www.aeaweb.org/webcasts/2018/machine-learning-and-econometrics-part-9)
+
+- Prof. [Boris Sobolev's](https://twitter.com/soboleffspaces) series in his edutainment YouTube channel [SobolevSpaces](https://www.youtube.com/channel/UCJXsWNaGCaNbi9lfeMIkNcw).
+    - [Causality with Boris](https://www.youtube.com/playlist?list=PLwmD6dkUR0Di3QLjllAWFxkQBkXLPln6u)
 
 ## Programming Frameworks
 
+### For the R language
 - [CausalImpact](https://github.com/google/CausalImpact): An R package by Google for causal inference using Bayesian structural time-series models
-- [https://github.com/WillianFuks/tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact): Implementation of `CausalImpact` on top f TensorFlow for Python.
-- [daggity]()
-- [causaleffect]()
+- [DAGitty](http://www.dagitty.net/): An R package **AND** browser-based environment for creating and analyzing causal diagrams.
+- [causaleffect](https://github.com/santikka/causaleffect/): An R package for causal effect identification and transportation.
+
+
+### For the Python language
+
+- [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact): Implementation of `CausalImpact` on top of TensorFlow for Python.
+ 
 - [CausalML](https://github.com/uber/causalml): A Python package by Uber for uplift modeling and causal inference with machine learning
 - [DoWhy](https://github.com/microsoft/dowhy): A Python library by Microsoft for end-to-end causal inference
 
+### For the Julia language
+
+- [CausalInference.jl](https://github.com/mschauer/CausalInference.jl): A Julia package for causal inference, graphical models and structure learning.
+- [Omega.jl](https://github.com/zenna/Omega.jl): A Julia package for causal and probabilistic inference in Julia.
+
+
+
 
 ## Conferences and Workshops
+
