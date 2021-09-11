@@ -117,6 +117,10 @@ So back to the topic again. This last year I have been following the right peopl
 - Prof. [Boris Sobolev's](https://twitter.com/soboleffspaces) series in his edutainment YouTube channel [SobolevSpaces](https://www.youtube.com/channel/UCJXsWNaGCaNbi9lfeMIkNcw).
     - [Causality with Boris](https://www.youtube.com/playlist?list=PLwmD6dkUR0Di3QLjllAWFxkQBkXLPln6u)
 
+- Prof. [Richard McElreath](https://xcelab.net/rm/) taught a one-day workshop on causal inference. He provided the slides, code, and video.
+    - [Video](https://youtu.be/KNPYUVmY3NM)
+    - [Slides and R code](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbk1DU1VxQUFDVlhzbi1RUU1sR29QVW12QzJqQXxBQ3Jtc0ttSC1IZWhidl9hTGxVenNRRHhHLU1WR3Vxemlnclh0VXEyQjVKbFJaZVB6UVVXR193VTN3S0g3TnA3eVc0QlpacmdQeVNfN19yckFaSHRYS2ZveUxhcGtKdTRCNHRvMnF4Sy0tVC1QR0lyZlRzZWx0Zw&q=https%3A%2F%2Fgithub.com%2Frmcelreath%2Fcausal_salad_2021)
+
 ## Programming Frameworks
 
 ### For the R language
