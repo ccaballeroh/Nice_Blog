@@ -134,6 +134,7 @@ So back to the topic again. This last year I have been following the right peopl
 - [tfcausalimpact](https://github.com/WillianFuks/tfcausalimpact): Implementation of `CausalImpact` on top of TensorFlow for Python.
 - [CausalML](https://github.com/uber/causalml): A Python package by Uber for uplift modeling and causal inference with machine learning
 - [DoWhy](https://github.com/microsoft/dowhy): A Python library by Microsoft for end-to-end causal inference
+- [Ananke](https://ananke.readthedocs.io/en/latest/index.html): A Python library for causal inference using grpahical models.
 
 ### For the Julia language
 
