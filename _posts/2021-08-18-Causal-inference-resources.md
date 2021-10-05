@@ -22,7 +22,7 @@ The second rung entails **interventions**. In this second level, we can know wha
 
 Lastly, the third (and highest) rung in the ladder is the **counterfactual**. At this level, we need imagination to guess what the world would be had something been different in the past. As far as we know, we humans are the only living animals capable of doing this. (I will have much more to say about this in a future post relating this ability to human language and its computational properties).
 
-Apparently, it is not so easy to _define_ what is a cause even though we all have an intuition for it. Philosophers have taken a stab at it for centuries (if not millenia), so I won't say that the issue is settled, but I do like one definition I have come across by Prof. Pearl himself and it goes something like this:
+Apparently, it is not so easy to _define_ what is a cause even though we all have an intuition for it. Philosophers have taken a stab at it for centuries (if not millennia), so I won't say that the issue is settled, but I do like one definition I have come across by Prof. Pearl himself and it goes something like this:
 
 > Having both A and B occurred, we can say that A is a cause for B, if and only if, had not A happened, B would not have happened. 
 
